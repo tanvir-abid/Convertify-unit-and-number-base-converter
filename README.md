@@ -39,7 +39,7 @@ To explore and utilize Convertify:
 
 ## Contribution
 
-Contributions, suggestions, and feedback are immensely appreciated! Feel free to submit pull requests or raise issues in the repository for enhancements or bug fixes.
+Contributions and feedback are highly encouraged and appreciated! If you have suggestions for improvements, encounter any issues, or wish to add new features, please create pull requests or raise issues in the repository.
 
 ## License
 
